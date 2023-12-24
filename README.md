@@ -12,3 +12,4 @@ move react-native-ble-manager into node_modules after npm install
 
 arduino --> *.ino
 
+test on ESP32
