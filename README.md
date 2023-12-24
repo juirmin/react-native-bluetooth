@@ -1,6 +1,6 @@
 # react-native-bluetooth
 Based on 'react-native-ble-manager'
-environment ==>
+## environment
 jdk 1.8.0_261
 
 ## start 
