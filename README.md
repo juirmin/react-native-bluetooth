@@ -4,8 +4,8 @@ Based on 'react-native-ble-manager'
 jdk 1.8.0_261
 
 ## start 
-npm install 
-react-native run-android
+1. `npm install` 
+1. `react-native run-android`
 
 ## tip
 move react-native-ble-manager into node_modules after npm install
